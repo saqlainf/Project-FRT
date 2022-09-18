@@ -16,5 +16,7 @@ Frt project
 ## Contact Page
 ![image](https://user-images.githubusercontent.com/94780544/190916353-f3564e3e-b0a0-430d-8be6-061b8ce68129.png)
 
+## Project Demo Video: https://drive.google.com/file/d/1FQMopb0IL0Ho_yQwI3uq8ZwHBEW7USQf/view?usp=sharing
+
 ## Azure Portal
 ![image](https://user-images.githubusercontent.com/94780544/190916594-b507c54a-014b-4990-aae8-c48a55ce1367.png)
